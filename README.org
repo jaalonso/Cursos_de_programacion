@@ -1,7 +1,7 @@
 #+TITLE:  Cursos de programación
 #+AUTHOR: José A. Alonso
 #+DATE:   27 de mayo de 2016
-
+ 
 En esta página se recopilan cursos de programación con lenguajes distintos de
 Haskell, OCaml y Prolog que tienen sus páginas específicas.
 
